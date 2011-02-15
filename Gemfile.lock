@@ -42,6 +42,9 @@ GEM
     net-ssh-gateway (1.0.1)
       net-ssh (>= 1.99.1)
     nokogiri (1.4.4)
+    parallel (0.5.1)
+    parallel_tests (0.4.9)
+      parallel
     rack (1.2.1)
     rack-test (0.5.7)
       rack (>= 1.0)
@@ -76,6 +79,7 @@ DEPENDENCIES
   capybara
   fuubar
   launchy
+  parallel_tests
   rack
   rcov
   rspec

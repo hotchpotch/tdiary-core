@@ -13,4 +13,5 @@ group :test do
 	gem 'fuubar'
 	gem 'capybara'
 	gem 'launchy'
+	gem 'parallel_tests'
 end
